@@ -1,5 +1,7 @@
 Simple Restaurant API
 
+A small program I made to learn about programming in rust.
+
 This project is a simple rest application to model tables and items are a restaurant. It runs a server locally and then returns json data. 
 
 The server can be run with cargo run and then calling the endpoints. Tests are run with cargo test
